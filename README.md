@@ -1,4 +1,4 @@
-# flappy-chick by Vishu
+# flappy-chick
 <html lang="en">
 <head>
 <meta charset="UTF-8">
